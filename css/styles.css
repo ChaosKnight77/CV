@@ -1,0 +1,19 @@
+body {
+  background-color: #F9B208;
+}
+
+hr {
+  border-style: none dotted dotted;
+  width: 5%;
+  border-width: 5px;
+  border-color: grey;
+}
+h1 {
+  color: #343F56;
+  font-family: 'Copperplate Gothic Light';
+}
+
+h3{
+  color: #CF0000;
+  font-family: 'Papyrus';
+}
